@@ -74,7 +74,7 @@ AI can **enhance analysis and automate decision-making** in grassland research. 
 ### 🛰 **5. Multimodal AI for Grassland Monitoring**
 - **Combine SAR (Sentinel-1), Optical (Sentinel-2), and Thermal (MODIS)** data for AI-driven insights.
 - **Use GANs for super-resolution mapping** to improve low-res grassland imagery.
-- **Fine-tune foundation models (like SAM + GPT-4V)** to customize grassland classification.
+- **Fine-tune foundation models** to customize grassland classification.
 
 ---
 
